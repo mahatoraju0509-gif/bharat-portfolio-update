@@ -1,0 +1,1511 @@
+# Query: B
+# ContextLines: 1
+
+748 results - 5 files
+<head>
+  <!-- Google Verification Tag -->
+  <meta name="google-site-verification" content="wiYCSU9peMzbwfV4busHt1RaMsG_drFb8xENIUfA-ug" />
+
+  <!-- SEO Meta Tags -->
+  <meta name="author" content="Bharat Prasad Shah">
+  <meta name="description" content="Official portfolio of Bharat Prasad Shah — Senior Political Leader from Madhesh Pradesh, Nepal. Known for decades of public service, provincial leadership, and contributions to governance and development.">
+  <meta name="keywords" content="Bharat Prasad Shah, Madhesh Pradesh Leader, Nepal Politics, Provincial Assembly, Public Service, Political Biography, Madhesh Development">
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Bharat Prasad Shah | Political Leader, Madhesh Pradesh</title>
+</head>
+   15  
+
+   25    <!-- ===== NAVIGATION ===== -->
+   26: <nav class="nav" id="navbar">
+   27    <div class="nav__container">
+   28      <a href="#hero" class="nav__logo">
+   29:       <span class="nav__logo-name">Bharat Prasad Shah</span>
+   30        <span class="nav__logo-title">Political Leader · Madhesh Pradesh</span>
+
+   32  
+   33:     <button class="nav__toggle" id="navToggle" aria-label="Toggle menu">
+   34        <span></span><span></span><span></span>
+   35:     </button>
+   36  
+   37      <ul class="nav__links" id="navLinks">
+   38:       <li><a href="#about" class="nav__link">About</a></li>
+   39  
+   40:       <!-- ⭐ Add Contributions here -->
+   41:       <li><a href="#contributions" class="nav__link">Contributions</a></li>
+   42  
+
+   54  <header class="hero" id="hero">
+   55:   <div class="hero__backdrop"></div>
+   56    <div class="hero__container">
+
+   61          <img
+   62:           src="assets/img/bharat-prasad-shah.jpg"
+   63:           alt="Bharat Prasad Shah"
+   64            class="hero__portrait"
+
+   74        <h1 class="hero__name">
+   75:         Bharat Prasad<br /><span>Shah</span>
+   76        </h1>
+
+   80        <p class="hero__tagline">
+   81:         Four Decades of Dedicated Public Service<br />
+   82:         <em>Federal Election Candidate · Former Provincial Assembly Member · Long-standing Madhesh Representative</em>
+   83        </p>
+   84  
+   85:       <!-- BADGES -->
+   86:       <div class="hero__badges">
+   87:         <span class="badge">Madhesh Pradesh</span>
+   88:         <span class="badge">Mahottari</span>
+   89:         <span class="badge">Nepali Communist Party (NCP)</span>
+   90        </div>
+   91  
+   92:       <!-- BUTTONS -->
+   93        <div class="hero__actions">
+   94:         <a href="#journey" class="btn btn--primary">Explore Journey</a>
+   95:         <a href="#contact" class="btn btn--outline">Get in Touch</a>
+   96        </div>
+
+  100          <div class="hero__stat"><h3>40+</h3><p>Years of Service</p></div>
+  101:         <div class="hero__stat"><h3>2×</h3><p>Provincial Assembly Member</p></div>
+  102:         <div class="hero__stat"><h3>1×</h3><p>Member of Parliament</p></div>
+  103:         <div class="hero__stat"><h3>1×</h3><p>Constituent Assembly Member</p></div>
+  104          <div class="hero__stat"><h3>2</h3><p>MA Degrees</p></div>
+
+  117  
+  118:   <!-- ===== ABOUT ===== -->
+  119: <section class="section about" id="about">
+  120    <div class="section__container">
+  121:     <div class="section__label">About</div>
+  122  
+  123:     <div class="about__grid">
+  124:       <div class="about__text">
+  125:         <h2 class="section__title">A Life in<br /><em>Service of the People</em></h2>
+  126  
+  127:         <p class="about__lead">
+  128:           Bharat Prasad Shah is a respected Nepali political figure with more than four decades of public service, deeply rooted in the soil of Mahottari and committed to the development and dignity of Madhesh.
+  129          </p>
+  130  
+  131:         <p class="about__body">
+  132:           His political journey reflects principled leadership — from early student activism to representing the people of Madhesh in both federal and provincial roles. He has served twice in Nepal’s federal legislature: first as a Member of Parliament in 2006 AD, and later as a Member of the historic Constituent Assembly in 2007 AD, contributing directly to the drafting of Nepal’s new constitution.
+  133          </p>
+  134  
+  135:         <p class="about__body">
+  136:           He was elected twice to the Madhesh Pradesh Provincial Assembly — first in 2017 AD and again in 2022 AD — serving the people of Mahottari with dedication and integrity. In 2026 AD, he contested the Federal Parliament election from Mahottari‑4 with strong public support, continuing his long-standing commitment to national service.
+  137          </p>
+  138  
+  139:         <p class="about__body">
+  140:           Currently pursuing MPhil/PhD in Political Science at Tribhuvan University, he continues to combine academic depth with decades of real‑world political experience — a rare blend that shapes his thoughtful and grounded leadership style.
+  141          </p>
+  142  
+  143:         <blockquote class="about__quote">
+  144:           "Development is not a promise — it is a responsibility that begins at the doorstep of every citizen."
+  145:         </blockquote>
+  146        </div>
+  147  
+  148:       <div class="about__sidebar">
+  149  
+  150:         <div class="about__card">
+  151:           <h3 class="about__card-title">Political Affiliation</h3>
+  152            <p>Nepali Communist Party (NCP)</p>
+
+  156  
+  157:         <div class="about__card">
+  158:           <h3 class="about__card-title">Academic Pursuit</h3>
+  159            <p>MPhil/PhD (Running)</p>
+  160            <p>Central Dept. of Political Science</p>
+  161:           <p>Tribhuvan University</p>
+  162          </div>
+  163  
+  164:         <div class="about__card about_card--family">
+  165:           <h3 class="about__card-title">Family Legacy</h3>
+  166            <p>
+  167:             His wife, <strong>Dilkumari Shah</strong>, served as a Proportional Representation (PR) Member of Parliament in 2017 AD — reflecting a shared family commitment to public service and social responsibility.
+  168            </p>
+
+  175  
+  176: <section class="contributions" id="contributions">
+  177    <div class="section__container">
+  178:     <div class="section__label">Contributions</div>
+  179  
+  180      <h2 class="section__title">
+  181:       Political Contributions &<br /><em>Public Service Achievements</em>
+  182      </h2>
+
+  184      <p class="section__intro">
+  185:       Bharat Prasad Shah has contributed to strengthening governance, promoting transparency, and advancing social justice across Madhesh. His leadership reflects a commitment to accountability, dignity, and inclusive development.
+  186      </p>
+  187  
+  188:     <div class="contributions__grid">
+  189  
+  190        <!-- भ्रष्टाचार न्यूनीकरण -->
+  191:       <div class="contribution__card">
+  192          <h3>भ्रष्टाचार न्यूनीकरण र पारदर्शिता सुधार</h3>
+  193          <p>
+  194:           अर्थमन्त्रीको कार्यकालमा योजनाहरू सञ्चालनमा पारदर्शिता र प्रतिस्पर्धात्मकता बढाउन उपभोक्ता समिति प्रणाली बन्द गरी खुला टेण्डर प्रक्रियाबाट योजना सञ्चालन गर्ने नीति लागू गरिएको थियो। यस कदमले विकास योजनामा भ्रष्टाचार नियन्त्रण, स्पष्टता, र उत्तरदायित्व बढाउने उद्देश्य राख्थ्यो।<br><br>
+  195            पछि सरकार परिवर्तनसँगै प्रदेश सभामा संकल्प प्रस्ताव पारित भई पुनः उपभोक्ता समितिबाट योजना सञ्चालन गरियो, जसले पारदर्शितामा चुनौती उत्पन्न गराएको आलोचना पनि उठेको थियो।
+
+  197          <p>
+  198:           <strong>English Summary:</strong><br>
+  199:           Introduced open tender reforms to replace consumer committees, aiming to reduce corruption and increase transparency in development projects. Later policy reversals raised concerns about accountability and transparency.
+  200          </p>
+
+  203        <!-- जनयुद्ध दिवस -->
+  204:       <div class="contribution__card">
+  205          <h3>जनयुद्ध दिवसको सम्मान तथा शहीद परिवारप्रति सहयोग</h3>
+  206          <p>
+  207:           गृह मन्त्रालयको कार्यकालमा प्रदेश सरकारले पहिलो पटक जनयुद्ध दिवसलाई औपचारिक रूपमा मनाएको थियो। यस अवसरमा शहीद परिवार र वेपत्ता परिवारलाई सम्मान प्रदान गरियो, घाइते योद्धाहरूलाई उपचारका लागि आर्थिक सहयोग उपलब्ध गराइयो, र संघर्षकालीन योगदानलाई सम्मान गर्ने उद्देश्यले विशेष कार्यक्रम आयोजना गरियो।<br><br>
+  208            यो पहलले सामाजिक न्याय, समावेशीता र संघर्षकालीन योगदानको कदर गर्ने प्रयासलाई मजबुत बनायो।
+
+  210          <p>
+  211:           <strong>English Summary:</strong><br>
+  212:           As Home Minister, facilitated the first official celebration of People’s War Day at the provincial level, honoring martyr families, supporting the families of the disappeared, and providing medical and financial aid to injured individuals.
+  213          </p>
+
+  216        <!-- Federal Representation -->
+  217:       <div class="contribution__card">
+  218          <h3>Federal Representation</h3>
+  219          <p>
+  220:           Served as a Member of Parliament (2006 AD) and later as a Member of the historic Constituent Assembly (2007 AD), contributing to Nepal’s constitutional transformation.
+  221          </p>
+
+  224        <!-- Provincial Leadership -->
+  225:       <div class="contribution__card">
+  226          <h3>Provincial Leadership</h3>
+  227          <p>
+  228:           Elected twice to the Madhesh Pradesh Provincial Assembly (2017 AD & 2022 AD), advocating for regional development, education, and social equity.
+  229          </p>
+
+  232        <!-- Grassroots Development -->
+  233:       <div class="contribution__card">
+  234          <h3>Grassroots Development</h3>
+
+  240        <!-- Academic Engagement -->
+  241:       <div class="contribution__card">
+  242          <h3>Academic Engagement</h3>
+  243          <p>
+  244:           Pursuing MPhil/PhD in Political Science, combining academic depth with decades of real‑world political experience to guide informed leadership.
+  245          </p>
+
+  248        <!-- Family Legacy -->
+  249:       <div class="contribution__card">
+  250          <h3>Family Legacy of Service</h3>
+  251          <p>
+  252:           His wife, Dilkumari Shah, served as a PR Member of Parliament (2017 AD), reflecting a shared family commitment to public service.
+  253          </p>
+
+  262    <div class="section__container">
+  263:     <div class="section__label">Political Journey</div>
+  264      <h2 class="section_title section_title--center">
+  265:       Four Decades of<br /><em>Dedicated Leadership</em>
+  266      </h2>
+  267:     <p class="section__subtitle">
+  268:       From student activism to national representation — a lifelong commitment to public service.
+  269      </p>
+
+  273        <!-- Early Engagement -->
+  274:       <div class="timeline_block timeline_block--left">
+  275          <div class="timeline__dot"></div>
+
+  280            <p class="timeline__desc">
+  281:             Began public life as Vice President of the Red Cross Society school unit in Mahottari. Later served as Secretary of the Free Student Union at the Institute of Forestry, Hetauda Campus (Tribhuvan University).
+  282            </p>
+
+  286        <!-- Local Governance -->
+  287:       <div class="timeline_block timeline_block--right">
+  288          <div class="timeline__dot"></div>
+
+  299        <!-- National Movement -->
+  300:       <div class="timeline_block timeline_block--left">
+  301          <div class="timeline__dot"></div>
+
+  312        <!-- National Legislature -->
+  313:       <div class="timeline_block timeline_block--right">
+  314          <div class="timeline__dot"></div>
+
+  317            <h3 class="timeline__year">2006–2007 AD</h3>
+  318:           <h4 class="timeline__role">Member of Parliament & Constituent Assembly</h4>
+  319            <p class="timeline__desc">
+  320:             Elected to the House of Representatives in 2006 AD and subsequently to the historic Constituent Assembly in 2007 AD — contributing to the drafting of Nepal’s new constitution.
+  321            </p>
+
+  325        <!-- Provincial Leadership (1st Term) -->
+  326:       <div class="timeline_block timeline_block--left">
+  327          <div class="timeline__dot"></div>
+
+  330            <h3 class="timeline__year">2017 AD</h3>
+  331:           <h4 class="timeline__role">Provincial Assembly Member</h4>
+  332            <p class="timeline__desc">
+  333:             Elected to the Madhesh Pradesh Provincial Assembly from Mahottari Constituency No. 1(2). Worked closely with local communities to strengthen governance and inclusive development.
+  334            </p>
+
+  338        <!-- Provincial Leadership (2nd Term) -->
+  339:       <div class="timeline_block timeline_block--right">
+  340          <div class="timeline__dot"></div>
+  341          <div class="timeline__card">
+  342:           <span class="timeline__era">Second Term in Provincial Assembly</span>
+  343            <h3 class="timeline__year">2022 AD</h3>
+  344:           <h4 class="timeline__role">Provincial Assembly Member (Re‑elected)</h4>
+  345            <p class="timeline__desc">
+  346:             Re‑elected to the Madhesh Pradesh Provincial Assembly, continuing his commitment to public service and regional development.
+  347            </p>
+
+  351        <!-- Federal Election 2025 -->
+  352:       <div class="timeline_block timeline_block--left">
+  353          <div class="timeline__dot"></div>
+
+  358            <p class="timeline__desc">
+  359:             Contested the Federal Parliament election from Mahottari‑4 with strong public support, continuing his long-standing commitment to national service.
+  360            </p>
+
+  371      <div class="section__container">
+  372:       <div class="section__label">Highlights</div>
+  373        <h2 class="section_title section_title--center">Key <em>Milestones</em></h2>
+
+  377            <div class="milestone__icon">🏛️</div>
+  378:           <h3 class="milestone__title">Constituent Assembly</h3>
+  379:           <p class="milestone__desc">Participated in the writing of Nepal's new constitution as a Constituent Assembly Member — one of the most historic roles in modern Nepali democracy.</p>
+  380          </div>
+
+  388            <h3 class="milestone__title">Finance Minister</h3>
+  389:           <p class="milestone__desc">Directed the fiscal and economic planning of Madhesh Pradesh as Finance Minister, shaping the provincial budget and development priorities.</p>
+  390          </div>
+
+  393            <h3 class="milestone__title">Academic Leader</h3>
+  394:           <p class="milestone__desc">Holds dual Master's degrees in Political Science and Maithili from Tribhuvan University, currently pursuing MPhil/PhD — bridging scholarship with statecraft.</p>
+  395          </div>
+
+  398            <h3 class="milestone__title">VDC Chairman</h3>
+  399:           <p class="milestone__desc">Began governance with a direct local mandate as VDC Chairman of Phulkaha, Mahottari — grounding his leadership in community reality.</p>
+  400          </div>
+
+  412      <div class="section__container">
+  413:       <div class="section__label">Education</div>
+  414:       <h2 class="section__title">Academic<br /><em>Foundation</em></h2>
+  415:       <p class="section__subtitle--left">A lifelong commitment to learning — from the schools of Mahottari to Tribhuvan University.</p>
+  416  
+
+  418          <div class="edu_item edu_item--current">
+  419:           <div class="edu__year">2026 AD<br /><span>Running</span></div>
+  420            <div class="edu__content">
+  421              <h3 class="edu__degree">MPhil / PhD</h3>
+  422:             <p class="edu__institution">Central Department of Political Science, Tribhuvan University</p>
+  423            </div>
+  424:           <div class="edu__badge">Ongoing</div>
+  425          </div>
+
+  430              <h3 class="edu__degree">M.A. Political Science</h3>
+  431:             <p class="edu__institution">Tribhuvan University</p>
+  432            </div>
+
+  438              <h3 class="edu__degree">M.A. Maithili</h3>
+  439:             <p class="edu__institution">Tribhuvan University</p>
+  440            </div>
+
+  445            <div class="edu__content">
+  446:             <h3 class="edu__degree">B.A.</h3>
+  447:             <p class="edu__institution">Ramswarup Ramsagar Multiple Campus, Janakpur — Tribhuvan University</p>
+  448            </div>
+
+  454              <h3 class="edu__degree">I.Sc.</h3>
+  455:             <p class="edu__institution">BDBK College, Forbesganj, Bihar, India</p>
+  456            </div>
+
+  462              <h3 class="edu__degree">SLC (School Leaving Certificate)</h3>
+  463:             <p class="edu__institution">Shree Yog Kumar Secondary School, Balwa–Sarpallo, Mahottari</p>
+  464            </div>
+
+  480        <h2 class="contact__title">Get in Touch</h2>
+  481:       <p class="contact__subtitle">
+  482:         For meetings, political engagements, or public service coordination, please use the contact details below.
+  483        </p>
+
+  489            <p>
+  490:             Gaushala Nagar Palika,<br>
+  491:             Ward No. 6, Phulkaha,<br>
+  492:             Mahottari, Madhesh Pradesh,<br>
+  493              Nepal
+
+  503            <h4>Email</h4>
+  504:           <p><a href="mailto:bpdshah@gmail.com">bpdshah@gmail.com</a></p>
+  505          </div>
+
+  507          <div class="detail">
+  508:           <h4>Facebook</h4>
+  509            <p>
+  510:             <a href="https://www.facebook.com/share/18iEzZJhwk/?mibextid=wwXIfr" target="_blank">
+  511:               Visit Facebook Profile
+  512              </a>
+
+  525          <textarea placeholder="Your Message" required></textarea>
+  526:         <button type="submit" class="btn btn--primary">Send Message</button>
+  527        </form>
+
+  537      <!-- LEFT -->
+  538:     <div class="footer__brand">
+  539:       <h2 class="footer__name">Bharat Prasad Shah</h2>
+  540        <p class="footer__title">Senior Political Leader · Madhesh Pradesh</p>
+
+  547          <li><a href="#hero">Home</a></li>
+  548:         <li><a href="#about">About</a></li>
+  549:         <li><a href="#contributions">Contributions</a></li>
+  550          <li><a href="#journey">Journey</a></li>
+
+  561        <p><strong>Phone:</strong> <a href="tel:+9779851150555">+977 9851150555</a></p>
+  562:       <p><strong>Email:</strong> <a href="mailto:bpdshah@gmail.com">bpdshah@gmail.com</a></p>
+  563:       <p><strong>Facebook:</strong> 
+  564:         <a href="https://www.facebook.com/share/18iEzZJhwk/?mibextid=wwXIfr" target="_blank">
+  565            Visit Profile
+
+  571  
+  572:   <!-- ===== BOTTOM CENTER BLOCK ===== -->
+  573:   <div class="footer__bottom">
+  574  
+  575      <p class="copy">
+  576:       ©️ 2026 Bharat Prasad Shah. All Rights Reserved.
+  577      </p>
+
+  579      <p class="dev">
+  580:       · Designed & Developed by <strong>Raju Mahato</strong>
+  581      </p>
+
+  583      <p class="dev-link">
+  584:       Developer FB ID:  
+  585:       <a href="https://www.facebook.com/share/1FhFVfmHbT/?mibextid=wwXIfr" target="_blank">
+  586:         Click to Open Facebook
+  587        </a>
+
+  591        WhatsApp:  
+  592:       <a href="https://wa.me/819036694264" target="_blank">
+  593          +81 09036694264
+
+robots.txt:
+  3  
+  4: Sitemap: https://bharat-shah.netlify.app/sitemap.xml
+
+sitemap.xml:
+  2  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  3:   <url><loc>https://bharat-shah.netlify.app/</loc></url>
+  4:   <url><loc>https://bharat-shah.netlify.app/#about</loc></url>
+  5:   <url><loc>https://bharat-shah.netlify.app/#journey</loc></url>
+  6:   <url><loc>https://bharat-shah.netlify.app/#contributions</loc></url>
+  7:   <url><loc>https://bharat-shah.netlify.app/#vision</loc></url>
+  8:   <url><loc>https://bharat-shah.netlify.app/#contact</loc></url>
+  9  </urlset>
+
+assets\css\style.css:
+     1  /* =====================================================
+     2:    BHARAT PRASAD SHAH — PORTFOLIO
+     3     Statesman Aesthetic: Deep Navy · Antique Gold · Ivory
+
+     6  
+     7: /* ── CSS VARIABLES ── */
+     8  :root {
+     9:   --navy:       #0d1b2a;
+    10    --navy-mid:   #1a2d42;
+    11:   --navy-light: #243b55;
+    12:   --gold:       #b8892a;
+    13    --gold-light: #d4a843;
+
+    20    --text-muted: #6e6e6e;
+    21:   --border:     rgba(184, 137, 42, 0.25);
+    22  
+    23    --font-display: 'Playfair Display', Georgia, serif;
+    24:   --font-body:    'Lato', 'Helvetica Neue', sans-serif;
+    25    --font-accent:  'Cormorant Garamond', Georgia, serif;
+
+    28    --transition: 0.3s ease;
+    29:   --shadow: 0 4px 24px rgba(0,0,0,0.08);
+    30:   --shadow-deep: 0 12px 48px rgba(0,0,0,0.16);
+    31  }
+    32  
+    33: /* ── RESET & BASE ── */
+    34: *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    35  
+    36  html {
+    37:   scroll-behavior: smooth;
+    38    font-size: 16px;
+
+    40  
+    41: body {
+    42:   font-family: var(--font-body);
+    43:   background: var(--ivory);
+    44    color: var(--text-dark);
+    45    line-height: 1.7;
+    46:   -webkit-font-smoothing: antialiased;
+    47  }
+    48  
+    49: img { display: block; max-width: 100%; }
+    50  a { text-decoration: none; color: inherit; }
+
+    54  h1, h2, h3 { font-family: var(--font-display); font-weight: 700; line-height: 1.2; }
+    55: h4 { font-family: var(--font-body); font-weight: 700; }
+    56  em { font-family: var(--font-accent); font-style: italic; color: var(--gold); }
+
+    60  .section__container { max-width: 1180px; margin: 0 auto; padding: 0 32px; }
+    61: .section__label {
+    62:   font-family: var(--font-body);
+    63    font-size: 0.7rem;
+
+    67    color: var(--gold);
+    68:   margin-bottom: 16px;
+    69  }
+
+    72    color: var(--navy);
+    73:   margin-bottom: 24px;
+    74    line-height: 1.2;
+
+    76  .section__title--center { text-align: center; }
+    77: .section__subtitle {
+    78    font-size: 1.05rem;
+
+    84  }
+    85: .section__subtitle--left {
+    86    font-size: 1rem;
+    87    color: var(--text-muted);
+    88:   margin-bottom: 48px;
+    89    font-style: italic;
+
+    91  
+    92: /* ── BUTTONS ── */
+    93: .btn {
+    94:   display: inline-block;
+    95    padding: 13px 32px;
+    96:   font-family: var(--font-body);
+    97    font-size: 0.85rem;
+
+   100    text-transform: uppercase;
+   101:   border-radius: var(--radius);
+   102    transition: var(--transition);
+
+   104  }
+   105: .btn--primary {
+   106:   background: var(--gold);
+   107    color: var(--white);
+   108:   border: 2px solid var(--gold);
+   109  }
+   110: .btn--primary:hover {
+   111:   background: var(--gold-light);
+   112:   border-color: var(--gold-light);
+   113    transform: translateY(-2px);
+   114:   box-shadow: 0 6px 20px rgba(184, 137, 42, 0.35);
+   115  }
+   116: .btn--outline {
+   117:   background: transparent;
+   118    color: var(--white);
+   119:   border: 2px solid rgba(255,255,255,0.5);
+   120  }
+   121: .btn--outline:hover {
+   122:   border-color: var(--gold-pale);
+   123    color: var(--gold-pale);
+
+   126  
+   127: /* ── BADGE ── */
+   128: .badge {
+   129:   display: inline-block;
+   130    padding: 5px 14px;
+
+   134    text-transform: uppercase;
+   135:   border: 1px solid rgba(240, 208, 128, 0.45);
+   136    color: var(--gold-pale);
+   137:   border-radius: 20px;
+   138:   background: rgba(184, 137, 42, 0.12);
+   139  }
+
+   148    padding: 0 32px;
+   149:   background: transparent;
+   150:   transition: background var(--transition), box-shadow var(--transition);
+   151  }
+   152  .nav.scrolled {
+   153:   background: rgba(13, 27, 42, 0.97);
+   154:   box-shadow: 0 2px 24px rgba(0,0,0,0.3);
+   155:   backdrop-filter: blur(12px);
+   156  }
+
+   161    align-items: center;
+   162:   justify-content: space-between;
+   163    height: 72px;
+
+   192    text-transform: uppercase;
+   193:   color: rgba(255,255,255,0.8);
+   194    transition: color var(--transition);
+
+   198    padding: 9px 22px;
+   199:   border: 1px solid var(--gold);
+   200    color: var(--gold-pale);
+   201:   border-radius: var(--radius);
+   202  }
+   203  .nav__link--cta:hover {
+   204:   background: var(--gold);
+   205    color: var(--white);
+
+   210    gap: 5px;
+   211:   background: none;
+   212:   border: none;
+   213    cursor: pointer;
+
+   216  .nav__toggle span {
+   217:   display: block;
+   218    width: 24px;
+   219    height: 2px;
+   220:   background: var(--white);
+   221    transition: var(--transition);
+
+   229    min-height: 100vh;
+   230:   background: var(--navy);
+   231    display: flex;
+
+   234  }
+   235: .hero__backdrop {
+   236:   position: absolute;
+   237    inset: 0;
+   238:   background:
+   239:     radial-gradient(ellipse at 60% 40%, rgba(184, 137, 42, 0.12) 0%, transparent 60%),
+   240:     radial-gradient(ellipse at 10% 80%, rgba(36, 59, 85, 0.8) 0%, transparent 60%);
+   241    pointer-events: none;
+   242  }
+   243: .hero__backdrop::after {
+   244    content: '';
+   245:   position: absolute;
+   246    inset: 0;
+   247:   background-image:
+   248      repeating-linear-gradient(
+
+   251        transparent 79px,
+   252:       rgba(184, 137, 42, 0.04) 79px,
+   253:       rgba(184, 137, 42, 0.04) 80px
+   254      ),
+
+   258        transparent 79px,
+   259:       rgba(184, 137, 42, 0.04) 79px,
+   260:       rgba(184, 137, 42, 0.04) 80px
+   261      );
+
+   278    height: 380px;
+   279:   border: 3px solid var(--gold);
+   280:   border-radius: 4px;
+   281    overflow: hidden;
+   282    position: relative;
+   283:   box-shadow: 16px 16px 0 rgba(184, 137, 42, 0.18), var(--shadow-deep);
+   284  }
+   285  .hero__portrait-frame--placeholder {
+   286:   background: var(--navy-light);
+   287    display: flex;
+
+   291  .hero__portrait-frame--placeholder::after {
+   292:   content: 'B P S';
+   293    font-family: var(--font-display);
+
+   300    height: 100%;
+   301:   object-fit: cover;
+   302:   object-position: top center;
+   303  }
+
+   310    color: var(--gold);
+   311:   margin-bottom: 16px;
+   312  }
+
+   318    color: var(--white);
+   319:   margin-bottom: 24px;
+   320  }
+
+   324    height: 3px;
+   325:   background: var(--gold);
+   326:   margin-bottom: 24px;
+   327  }
+
+   329    font-size: 1rem;
+   330:   color: rgba(255,255,255,0.75);
+   331:   margin-bottom: 28px;
+   332    line-height: 1.7;
+
+   335  }
+   336: .hero__badges { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 36px; }
+   337  .hero__actions { display: flex; gap: 16px; flex-wrap: wrap; }
+   338  .hero__scroll-hint {
+   339:   position: absolute;
+   340:   bottom: 32px;
+   341    left: 50%;
+
+   346    gap: 8px;
+   347:   color: rgba(255,255,255,0.4);
+   348    font-size: 0.65rem;
+
+   355    height: 40px;
+   356:   background: linear-gradient(to bottom, rgba(184,137,42,0.6), transparent);
+   357    animation: scrollPulse 2s ease-in-out infinite;
+
+   367  .stats {
+   368:   background: var(--navy-mid);
+   369    padding: 0;
+   370:   border-bottom: 1px solid var(--border);
+   371  }
+
+   388  }
+   389: .stats__number {
+   390    font-family: var(--font-display);
+
+   395  }
+   396: .stats__label {
+   397    font-size: 0.72rem;
+
+   400    text-transform: uppercase;
+   401:   color: rgba(255,255,255,0.55);
+   402  }
+
+   404    width: 1px;
+   405:   background: rgba(184, 137, 42, 0.2);
+   406    align-self: stretch;
+
+   410  /* =====================================================
+   411:    ABOUT
+   412     ===================================================== */
+   413: .about { background: var(--ivory); }
+   414: .about__grid {
+   415    display: grid;
+
+   420  
+   421: .about__lead {
+   422    font-size: 1.2rem;
+
+   424    color: var(--navy);
+   425:   margin-bottom: 20px;
+   426    line-height: 1.75;
+   427  }
+   428: .about__body {
+   429    font-size: 0.97rem;
+   430    color: var(--text-mid);
+   431:   margin-bottom: 16px;
+   432    line-height: 1.8;
+   433  }
+   434: .about__quote {
+   435:   border-left: 3px solid var(--gold);
+   436    padding: 16px 24px;
+
+   441    font-style: italic;
+   442:   background: rgba(184, 137, 42, 0.04);
+   443  }
+   444: .about__sidebar { display: flex; flex-direction: column; gap: 20px; }
+   445: .about__card {
+   446:   background: var(--white);
+   447:   border: 1px solid var(--ivory-dark);
+   448:   border-top: 3px solid var(--gold);
+   449    padding: 24px;
+   450:   border-radius: var(--radius);
+   451:   box-shadow: var(--shadow);
+   452  }
+   453: .about__card--family { border-top-color: var(--navy); }
+   454: .about__card-title {
+   455:   font-family: var(--font-body);
+   456    font-size: 0.68rem;
+
+   460    color: var(--gold);
+   461:   margin-bottom: 12px;
+   462  }
+   463: .about__card p {
+   464    font-size: 0.88rem;
+
+   467  }
+   468: .about_card--family .about_card-title { color: var(--navy); }
+   469  
+
+   472     ===================================================== */
+   473: .journey { background: var(--navy); }
+   474: .journey .section__label { color: var(--gold); }
+   475  .journey .section__title { color: var(--white); }
+   476: .journey .section__subtitle { color: rgba(255,255,255,0.55); }
+   477  
+
+   483  }
+   484: .timeline::before {
+   485    content: '';
+   486:   position: absolute;
+   487    left: 50%;
+   488:   top: 0; bottom: 0;
+   489    transform: translateX(-50%);
+   490    width: 1px;
+   491:   background: linear-gradient(to bottom, transparent, var(--gold), var(--gold), transparent);
+   492    opacity: 0.35;
+   493  }
+   494: .timeline__block {
+   495    display: grid;
+   496    gap: 24px;
+   497:   margin-bottom: 40px;
+   498    position: relative;
+   499  }
+   500: .timeline__block--left {
+   501    grid-template-columns: 1fr 40px;
+
+   503  }
+   504: .timeline__block--right {
+   505    grid-template-columns: 40px 1fr;
+
+   507  }
+   508: .timeline_block--left .timeline_card { order: 1; }
+   509: .timeline_block--left .timeline_dot { order: 2; }
+   510: .timeline_block--right .timeline_card { order: 2; }
+   511: .timeline_block--right .timeline_dot { order: 1; }
+   512  
+
+   515    height: 16px;
+   516:   background: var(--navy-light);
+   517:   border: 2px solid var(--gold);
+   518:   border-radius: 50%;
+   519    align-self: start;
+
+   526  .timeline__dot--gold {
+   527:   background: var(--gold);
+   528:   box-shadow: 0 0 12px rgba(184, 137, 42, 0.5);
+   529  }
+   530  .timeline__card {
+   531:   background: rgba(255,255,255,0.04);
+   532:   border: 1px solid rgba(184, 137, 42, 0.18);
+   533    padding: 24px 28px;
+   534:   border-radius: 4px;
+   535    transition: var(--transition);
+
+   537  .timeline__card:hover {
+   538:   background: rgba(255,255,255,0.07);
+   539:   border-color: rgba(184, 137, 42, 0.4);
+   540  }
+   541  .timeline__card--highlight {
+   542:   background: rgba(184, 137, 42, 0.08);
+   543:   border-color: rgba(184, 137, 42, 0.35);
+   544  }
+
+   550    color: var(--gold);
+   551:   display: block;
+   552:   margin-bottom: 6px;
+   553  }
+
+   557    color: var(--white);
+   558:   margin-bottom: 4px;
+   559  }
+
+   563    color: var(--ivory-dark);
+   564:   margin-bottom: 10px;
+   565  }
+
+   567    font-size: 0.875rem;
+   568:   color: rgba(255,255,255,0.55);
+   569    line-height: 1.7;
+
+   574     ===================================================== */
+   575: .milestones { background: var(--ivory-dark); }
+   576  .milestones__grid {
+
+   581  .milestone__card {
+   582:   background: var(--white);
+   583:   border: 1px solid var(--ivory-dark);
+   584    padding: 32px 28px;
+   585:   border-radius: 4px;
+   586:   box-shadow: var(--shadow);
+   587    transition: var(--transition);
+   588:   border-bottom: 3px solid transparent;
+   589  }
+
+   591    transform: translateY(-4px);
+   592:   box-shadow: var(--shadow-deep);
+   593:   border-bottom-color: var(--gold);
+   594  }
+   595: .milestone__icon { font-size: 2rem; margin-bottom: 16px; }
+   596  .milestone__title {
+
+   599    color: var(--navy);
+   600:   margin-bottom: 10px;
+   601  }
+
+   610     ===================================================== */
+   611: .education { background: var(--white); }
+   612  .edu__list { display: flex; flex-direction: column; gap: 0; }
+
+   618    padding: 28px 0;
+   619:   border-bottom: 1px solid var(--ivory-dark);
+   620    transition: var(--transition);
+   621  }
+   622: .edu__item:first-child { border-top: 1px solid var(--ivory-dark); }
+   623: .edu__item:hover { background: var(--ivory); margin: 0 -16px; padding-left: 16px; padding-right: 16px; }
+   624  .edu_item--current .edu_year { color: var(--gold); }
+
+   632  .edu__year span {
+   633:   display: block;
+   634:   font-family: var(--font-body);
+   635    font-size: 0.65rem;
+
+   645    color: var(--navy);
+   646:   margin-bottom: 4px;
+   647  }
+
+   651  }
+   652: .edu__badge {
+   653    padding: 5px 14px;
+   654:   background: rgba(184, 137, 42, 0.1);
+   655    color: var(--gold);
+
+   659    text-transform: uppercase;
+   660:   border: 1px solid var(--border);
+   661:   border-radius: 20px;
+   662    white-space: nowrap;
+
+   667  
+   668: .values { background: var(--navy); }
+   669: .values .section__label { color: var(--gold); }
+   670  .values .section__title { color: var(--white); }
+
+   680    height: 2px;
+   681:   background: var(--gold);
+   682:   margin-bottom: 20px;
+   683  }
+
+   687    color: var(--white);
+   688:   margin-bottom: 12px;
+   689  }
+
+   691    font-size: 0.875rem;
+   692:   color: rgba(255,255,255,0.55);
+   693    line-height: 1.75;
+
+   698     ===================================================== */
+   699: .contact { background: var(--ivory); }
+   700: .contact__subtitle {
+   701    text-align: center;
+
+   704    font-style: italic;
+   705:   margin-bottom: 56px;
+   706  }
+
+   720  .contact__item strong {
+   721:   display: block;
+   722    font-size: 0.7rem;
+
+   726    color: var(--gold);
+   727:   margin-bottom: 4px;
+   728  }
+
+   734  .contact__message {
+   735:   background: var(--navy);
+   736    padding: 40px;
+   737:   border-radius: 4px;
+   738    position: relative;
+
+   741    font-size: 0.92rem;
+   742:   color: rgba(255,255,255,0.7);
+   743    line-height: 1.8;
+   744:   margin-bottom: 28px;
+   745  }
+
+   751    line-height: 1;
+   752:   margin-bottom: -16px;
+   753  }
+   754: .contact__quote-body {
+   755    font-family: var(--font-accent);
+
+   765  .footer {
+   766:   background: var(--navy);
+   767:   border-top: 1px solid rgba(184, 137, 42, 0.2);
+   768    padding: 40px 0;
+
+   776    text-align: center;
+   777:   margin-bottom: 20px;
+   778  }
+
+   793    height: 1px;
+   794:   background: rgba(184, 137, 42, 0.15);
+   795:   margin-bottom: 20px;
+   796  }
+   797: .footer__bottom {
+   798    display: flex;
+   799:   justify-content: space-between;
+   800    align-items: center;
+
+   805    font-size: 0.8rem;
+   806:   color: rgba(255,255,255,0.35);
+   807  }
+
+   809  /* =====================================================
+   810:    RESPONSIVE — TABLET
+   811     ===================================================== */
+
+   820    .hero__divider { margin: 0 auto 24px; }
+   821:   .hero__badges { justify-content: center; }
+   822    .hero__actions { justify-content: center; }
+   823:   .about__grid { grid-template-columns: 1fr; }
+   824:   .about__sidebar { display: grid; grid-template-columns: repeat(2, 1fr); }
+   825    .milestones__grid { grid-template-columns: repeat(2, 1fr); }
+
+   830    .stats__divider { display: none; }
+   831:   .timeline::before { left: 20px; }
+   832:   .timeline__block--left,
+   833:   .timeline__block--right {
+   834      grid-template-columns: 40px 1fr;
+
+   836    }
+   837:   .timeline_block--left .timeline_card { order: 2; }
+   838:   .timeline_block--left .timeline_dot { order: 1; }
+   839  }
+
+   841  /* =====================================================
+   842:    RESPONSIVE — MOBILE
+   843     ===================================================== */
+
+   851      top: 72px; left: 0; right: 0;
+   852:     background: rgba(13, 27, 42, 0.98);
+   853      flex-direction: column;
+
+   855      gap: 20px;
+   856:     border-top: 1px solid var(--border);
+   857    }
+
+   863    .values__grid { grid-template-columns: 1fr; gap: 28px; }
+   864:   .about__sidebar { grid-template-columns: 1fr; }
+   865    .edu__item { grid-template-columns: 80px 1fr; gap: 16px; }
+   866:   .edu__badge { display: none; }
+   867    .edu__year { font-size: 0.8rem; }
+   868:   .footer__bottom { flex-direction: column; text-align: center; }
+   869    .stats__item { flex: 0 0 100%; }
+   870    .hero__actions { flex-direction: column; align-items: center; }
+   871:   .hero__actions .btn { width: 100%; max-width: 280px; text-align: center; }
+   872  }.hero__portrait-frame {
+
+   880  
+   881: .hero__actions .btn--primary:hover {
+   882:   box-shadow: 0 0 20px rgba(184,137,42,0.6);
+   883  }
+   884: .hero__actions .btn--outline:hover {
+   885:   box-shadow: 0 0 16px rgba(255,255,255,0.4);
+   886  }
+
+   895  
+   896: .hero__actions .btn--primary:hover {
+   897:   box-shadow: 0 0 20px rgba(184,137,42,0.6);
+   898  }
+   899: .hero__actions .btn--outline:hover {
+   900:   box-shadow: 0 0 16px rgba(255,255,255,0.4);
+   901  }
+
+   920  }
+   921: .contributions {
+   922    padding: 6rem 0;
+   923:   background: #fafafa;
+   924  }
+   925  
+   926: .contributions__grid {
+   927    display: grid;
+
+   932  
+   933: .contribution__card {
+   934:   background: #fff;
+   935    padding: 2rem;
+   936:   border-radius: 12px;
+   937:   box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+   938    transition: 0.3s ease;
+
+   940  
+   941: .contribution__card:hover {
+   942    transform: translateY(-6px);
+   943:   box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+   944  }
+   945  
+   946: .contribution__card h3 {
+   947:   margin-bottom: 0.8rem;
+   948    font-size: 1.3rem;
+
+   951  
+   952: .contribution__card p {
+   953    opacity: 0.85;
+
+   959    padding: 6rem 0;
+   960:   background: #f8f8f8;
+   961  }
+
+   972    font-weight: 700;
+   973:   margin-bottom: 0.5rem;
+   974  }
+   975  
+   976: .contact__subtitle {
+   977    opacity: 0.8;
+   978:   margin-bottom: 2rem;
+   979    line-height: 1.6;
+
+   982  .contact__details .detail {
+   983:   margin-bottom: 1.5rem;
+   984  }
+
+   988    font-weight: 700;
+   989:   margin-bottom: 0.3rem;
+   990  }
+
+   998  .contact__form {
+   999:   background: #fff;
+  1000    padding: 2rem;
+  1001:   border-radius: 12px;
+  1002:   box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+  1003  }
+
+  1005  .contact__form h3 {
+  1006:   margin-bottom: 1rem;
+  1007    font-size: 1.4rem;
+
+  1014    padding: 0.9rem;
+  1015:   margin-bottom: 1rem;
+  1016:   border-radius: 8px;
+  1017:   border: 1px solid #ddd;
+  1018    font-size: 1rem;
+
+  1025  
+  1026: .contact__form button {
+  1027    width: 100%;
+
+  1029    font-size: 1rem;
+  1030:   border-radius: 8px;
+  1031  }
+
+  1034  .footer {
+  1035:   background: linear-gradient(135deg, #0b2c4a 0%, #0f3d63 100%);
+  1036    color: #f2f7ff;
+
+  1052    font-weight: 700;
+  1053:   margin-bottom: 0.3rem;
+  1054  }
+
+  1079  .footer__contact a:hover,
+  1080: .footer__bottom a:hover {
+  1081    color: #ffffff;
+
+  1083  
+  1084: /* BOTTOM CENTER BLOCK */
+  1085: .footer__bottom {
+  1086    text-align: center;
+
+  1088    padding-top: 1rem;
+  1089:   border-top: 1px solid rgba(255,255,255,0.3);
+  1090  }
+  1091  
+  1092: .footer__bottom p {
+  1093    margin: 4px 0;
+
+  1096  
+  1097: .footer__bottom a {
+  1098    color: #ffdd57;
+
+  1103     WORLD TOP CLASS PREMIUM FOOTER CSS
+  1104:    Bharat Prasad Shah • Premium Design
+  1105     ═══════════════════════════════════════════════════════════════════════════════ */
+
+  1109      position: relative;
+  1110:     background: linear-gradient(180deg, #071a2b 0%, #061420 40%, #030d18 100%);
+  1111      color: #c5c5c5;
+
+  1120      height: 4px;
+  1121:     background: linear-gradient(90deg,
+  1122              transparent 0%,
+  1123:             rgba(201, 160, 58, 0.3) 10%,
+  1124              #c9a03a 25%,
+
+  1127              #e0c878 70%,
+  1128:             rgba(201, 160, 58, 0.3) 90%,
+  1129              transparent 100%);
+
+  1137          opacity: 0.8;
+  1138:         background-position: 0% 50%;
+  1139      }
+
+  1141          opacity: 1;
+  1142:         background-position: 100% 50%;
+  1143      }
+
+  1145  
+  1146: /* ── Background Glow Effect ── */
+  1147: .premium-footer::before {
+  1148      content: "";
+  1149:     position: absolute;
+  1150      top: 0;
+
+  1154      height: 300px;
+  1155:     background: radial-gradient(ellipse at center, rgba(201, 160, 58, 0.06) 0%, transparent 70%);
+  1156      pointer-events: none;
+
+  1161      content: "";
+  1162:     position: absolute;
+  1163:     bottom: 0;
+  1164      right: 0;
+
+  1166      height: 400px;
+  1167:     background: radial-gradient(circle at bottom right, rgba(201, 160, 58, 0.04) 0%, transparent 65%);
+  1168      pointer-events: none;
+
+  1183  
+  1184: /* ── Column: Brand ── */
+  1185: .premium-footer__col--brand {
+  1186      display: flex;
+
+  1191  
+  1192: .premium-footer__brand-icon {
+  1193      width: 50px;
+  1194      height: 50px;
+  1195:     background: linear-gradient(135deg, #c9a03a, #e2b85c);
+  1196:     border-radius: 50%;
+  1197      display: flex;
+
+  1201      color: #061420;
+  1202:     margin-bottom: 6px;
+  1203:     box-shadow: 0 8px 25px rgba(201, 160, 58, 0.4);
+  1204      animation: footerIconPulse 3s ease-in-out infinite;
+
+  1208      0%, 100% {
+  1209:         box-shadow: 0 8px 25px rgba(201, 160, 58, 0.4);
+  1210      }
+  1211      50% {
+  1212:         box-shadow: 0 8px 40px rgba(201, 160, 58, 0.7), 0 0 60px rgba(201, 160, 58, 0.2);
+  1213      }
+
+  1222      margin: 0;
+  1223:     text-shadow: 1px 2px 0 rgba(0, 0, 0, 0.3);
+  1224      transition: color 0.3s ease;
+
+  1228      color: #fff;
+  1229:     text-shadow: 0 0 20px rgba(201, 160, 58, 0.5);
+  1230  }
+
+  1248  
+  1249: .premium-footer__location::before {
+  1250      content: "\f3c5";
+
+  1256  
+  1257: /* ── Social Buttons Row ── */
+  1258  .premium-footer__social-row {
+
+  1263  
+  1264: .premium-footer__social-btn {
+  1265      width: 38px;
+  1266      height: 38px;
+  1267:     border-radius: 50%;
+  1268:     border: 1.5px solid rgba(201, 160, 58, 0.4);
+  1269      display: flex;
+
+  1274      font-size: 0.9rem;
+  1275:     transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  1276:     background: rgba(255, 255, 255, 0.03);
+  1277:     backdrop-filter: blur(4px);
+  1278  }
+  1279  
+  1280: .premium-footer__social-btn:hover {
+  1281:     background: #c9a03a;
+  1282      color: #061420;
+  1283:     border-color: #c9a03a;
+  1284      transform: translateY(-4px);
+  1285:     box-shadow: 0 8px 25px rgba(201, 160, 58, 0.5);
+  1286  }
+
+  1300      margin: 0 0 8px 0;
+  1301:     padding-bottom: 10px;
+  1302:     border-bottom: 2px solid rgba(201, 160, 58, 0.5);
+  1303      letter-spacing: 0.5px;
+  1304      position: relative;
+  1305:     display: inline-block;
+  1306  }
+
+  1309      content: "";
+  1310:     position: absolute;
+  1311:     bottom: -2px;
+  1312      left: 0;
+
+  1314      height: 2px;
+  1315:     background: #c9a03a;
+  1316  }
+
+  1331  .premium-footer__links-list a {
+  1332:     color: #b0b0b0;
+  1333      text-decoration: none;
+
+  1339      padding: 5px 8px;
+  1340:     border-radius: 6px;
+  1341:     transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  1342      position: relative;
+
+  1352      color: #ffffff;
+  1353:     background: rgba(201, 160, 58, 0.1);
+  1354      padding-left: 14px;
+
+  1374      padding: 10px 14px;
+  1375:     border-radius: 12px;
+  1376:     background: rgba(255, 255, 255, 0.02);
+  1377:     border: 1px solid rgba(201, 160, 58, 0.1);
+  1378      transition: all 0.3s ease;
+
+  1381  .premium-footer__contact-item:hover {
+  1382:     background: rgba(201, 160, 58, 0.06);
+  1383:     border-color: rgba(201, 160, 58, 0.35);
+  1384      transform: translateX(4px);
+
+  1395  .premium-footer__contact-item span {
+  1396:     display: block;
+  1397      font-size: 0.7rem;
+
+  1400      letter-spacing: 1px;
+  1401:     margin-bottom: 2px;
+  1402  }
+
+  1413      color: #f0d878;
+  1414:     text-shadow: 0 0 8px rgba(201, 160, 58, 0.4);
+  1415  }
+  1416  
+  1417: /* ── Bottom Bar ── */
+  1418: .premium-footer__bottom {
+  1419:     border-top: 1px solid rgba(201, 160, 58, 0.2);
+  1420      position: relative;
+  1421      z-index: 2;
+  1422:     background: rgba(3, 13, 24, 0.6);
+  1423:     backdrop-filter: blur(10px);
+  1424  }
+  1425  
+  1426: .premium-footer__bottom::before {
+  1427      content: "";
+  1428:     position: absolute;
+  1429      top: 0;
+
+  1432      height: 1px;
+  1433:     background: linear-gradient(90deg,
+  1434              transparent,
+  1435:             rgba(201, 160, 58, 0.3),
+  1436:             rgba(201, 160, 58, 0.6),
+  1437:             rgba(201, 160, 58, 0.3),
+  1438              transparent);
+
+  1440  
+  1441: .premium-footer__bottom-container {
+  1442      max-width: 1300px;
+
+  1446      flex-wrap: wrap;
+  1447:     justify-content: space-between;
+  1448      align-items: center;
+
+  1471  
+  1472: .premium-footer__dev-label {
+  1473      color: #888;
+
+  1482  .premium-footer__dev-separator {
+  1483:     color: rgba(201, 160, 58, 0.4);
+  1484  }
+  1485  
+  1486: .premium-footer__dev-fb {
+  1487      color: #c9a03a;
+
+  1495  
+  1496: .premium-footer__dev-fb:hover {
+  1497      color: #f0d878;
+  1498:     text-shadow: 0 0 8px rgba(201, 160, 58, 0.4);
+  1499  }
+
+  1504      gap: 5px;
+  1505:     background: #25D366;
+  1506      color: #ffffff !important;
+  1507      padding: 6px 14px;
+  1508:     border-radius: 20px;
+  1509      font-weight: 600;
+
+  1511      font-size: 0.8rem;
+  1512:     transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  1513:     box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);
+  1514  }
+
+  1516  .premium-footer__dev-wa:hover {
+  1517:     background: #1ebc59;
+  1518      transform: translateY(-3px);
+  1519:     box-shadow: 0 8px 22px rgba(37, 211, 102, 0.5);
+  1520      color: #ffffff !important;
+
+  1530      
+  1531:     .premium-footer__col--brand {
+  1532          grid-column: 1 / -1;
+
+  1540      
+  1541:     .premium-footer__bottom-container {
+  1542          flex-direction: column;
+
+  1562      
+  1563:     .premium-footer__bottom-container {
+  1564          padding: 12px 16px;
+
+  1600  .footer {
+  1601:     background: linear-gradient(180deg, #071a2b 0%, #061420 50%, #030d18 100%) !important;
+  1602:     border-top: 3px solid #c9a03a !important;
+  1603      position: relative !important;
+
+  1607  
+  1608: .footer::before {
+  1609      content: "";
+  1610:     position: absolute;
+  1611      top: 0;
+
+  1614      height: 100%;
+  1615:     background: 
+  1616:         radial-gradient(ellipse at 30% 10%, rgba(201,160,58,0.04) 0%, transparent 60%),
+  1617:         radial-gradient(ellipse at 70% 90%, rgba(201,160,58,0.03) 0%, transparent 60%);
+  1618      pointer-events: none;
+
+  1632  
+  1633: .footer__brand {
+  1634      display: flex !important;
+
+  1643      color: #f5e7c6 !important;
+  1644:     text-shadow: 1px 2px 0 rgba(0,0,0,0.3) !important;
+  1645      letter-spacing: 1px !important;
+  1646      position: relative !important;
+  1647:     display: inline-block !important;
+  1648      transition: all 0.3s ease !important;
+
+  1651  .footer__name:hover {
+  1652:     text-shadow: 0 0 25px rgba(201,160,58,0.6) !important;
+  1653      color: #fff !important;
+
+  1667      color: #fff !important;
+  1668:     margin-bottom: 12px !important;
+  1669:     padding-bottom: 8px !important;
+  1670:     border-bottom: 2px solid rgba(201,160,58,0.5) !important;
+  1671:     display: inline-block !important;
+  1672      position: relative !important;
+
+  1677      content: "" !important;
+  1678:     position: absolute !important;
+  1679:     bottom: -2px !important;
+  1680      left: 0 !important;
+
+  1682      height: 2px !important;
+  1683:     background: #c9a03a !important;
+  1684  }
+
+  1694  .footer__links-grid a {
+  1695:     color: #b0b0b0 !important;
+  1696      text-decoration: none !important;
+
+  1698      padding: 5px 8px !important;
+  1699:     border-radius: 5px !important;
+  1700:     display: block !important;
+  1701:     transition: all 0.3s cubic-bezier(0.34,1.56,0.64,1) !important;
+  1702  }
+
+  1705      color: #fff !important;
+  1706:     background: rgba(201,160,58,0.1) !important;
+  1707      padding-left: 14px !important;
+
+  1711  .footer__contact p {
+  1712:     margin-bottom: 8px !important;
+  1713      font-size: 0.88rem !important;
+  1714:     color: #b0b0b0 !important;
+  1715  }
+
+  1729      color: #f0d878 !important;
+  1730:     text-shadow: 0 0 8px rgba(201,160,58,0.4) !important;
+  1731  }
+  1732  
+  1733: .footer__bottom {
+  1734:     border-top: 1px solid rgba(201,160,58,0.2) !important;
+  1735      padding: 16px 35px !important;
+  1736:     background: rgba(3,13,24,0.5) !important;
+  1737:     backdrop-filter: blur(10px) !important;
+  1738      text-align: center !important;
+
+  1742  
+  1743: .footer__bottom::before {
+  1744      content: "" !important;
+  1745:     position: absolute !important;
+  1746      top: 0 !important;
+
+  1749      height: 1px !important;
+  1750:     background: linear-gradient(90deg, transparent, rgba(201,160,58,0.4), rgba(201,160,58,0.7), rgba(201,160,58,0.4), transparent) !important;
+  1751  }
+
+  1755      font-size: 0.85rem !important;
+  1756:     margin-bottom: 5px !important;
+  1757  }
+
+  1761      font-size: 0.82rem !important;
+  1762:     margin-bottom: 5px !important;
+  1763  }
+
+  1778      color: #f0d878 !important;
+  1779:     text-shadow: 0 0 8px rgba(201,160,58,0.4) !important;
+  1780  }
+
+  1785      gap: 5px !important;
+  1786:     background: #25D366 !important;
+  1787      color: #fff !important;
+  1788      padding: 6px 16px !important;
+  1789:     border-radius: 20px !important;
+  1790      font-weight: 600 !important;
+
+  1792      font-size: 0.82rem !important;
+  1793:     transition: all 0.4s cubic-bezier(0.34,1.56,0.64,1) !important;
+  1794:     box-shadow: 0 4px 14px rgba(37,211,102,0.3) !important;
+  1795      margin-top: 5px !important;
+
+  1798  .dev-whatsapp a:hover {
+  1799:     background: #1ebc59 !important;
+  1800      transform: translateY(-3px) !important;
+  1801:     box-shadow: 0 8px 22px rgba(37,211,102,0.5) !important;
+  1802  }
+
+  1810      }
+  1811:     .footer__brand {
+  1812          grid-column: 1 / -1 !important;
+
+  1825      }
+  1826:     .footer__bottom {
+  1827          padding: 12px 15px !important;
+
+js\main.js:
+   1  /* =====================================================
+   2:    BHARAT PRASAD SHAH — PORTFOLIO | main.js
+   3     ===================================================== */
+
+   5  // ── Dynamic Footer Year ──
+   6: document.getElementById('year').textContent = new Date().getFullYear();
+   7  
+   8: // ── Navbar Scroll Behaviour ──
+   9: const navbar = document.getElementById('navbar');
+  10  window.addEventListener('scroll', () => {
+  11:   navbar.classList.toggle('scrolled', window.scrollY > 60);
+  12  });
+  13  
+  14: // ── Mobile Nav Toggle ──
+  15: const navToggle = document.getElementById('navToggle');
+  16: const navLinks  = document.getElementById('navLinks');
+  17  
+
+  30  
+  31: const observer = new IntersectionObserver((entries) => {
+  32    entries.forEach(entry => {
+
+  36            'active',
+  37:           link.getAttribute('href') === '#' + entry.target.id
+  38          );
+
+  43  
+  44: sections.forEach(section => observer.observe(section));
+  45  
+
+  47  const animEls = document.querySelectorAll(
+  48:   '.milestone__card, .value__item, .edu__item, .timeline__card, .about__card'
+  49  );
+  50  
+  51: const fadeIn = new IntersectionObserver((entries) => {
+  52    entries.forEach((entry) => {
+  53      if (entry.isIntersecting) {
+  54:       entry.target.classList.add('visible');
+  55:       fadeIn.unobserve(entry.target);
+  56      }
+
+  59  
+  60: animEls.forEach(el => fadeIn.observe(el));
+  61  const timelineCards = document.querySelectorAll('.timeline__card');
+  62: const revealTimeline = new IntersectionObserver((entries) => {
+  63    entries.forEach(entry => {
+  64      if (entry.isIntersecting) {
+  65:       entry.target.classList.add('visible');
+  66:       revealTimeline.unobserve(entry.target);
+  67      }
+
+  69  }, { threshold: 0.2 });
+  70: timelineCards.forEach(card => revealTimeline.observe(card));
